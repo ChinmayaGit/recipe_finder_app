@@ -16,9 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-|Screenshots 1|Screenshots 2|Screenshots 3 |Screenshots 3|
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/1.png" width=60% height=60%> |<img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/2.png" width=60% height=60%> |<img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/3.png" width=60% height=60%> |<img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/4.png" width=60% height=60%> |
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/1.png" width=60% height=60%> | <img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/2.png" width=60% height=60%> | <img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/3.png" width=60% height=60%> | <img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/4.png" width=60% height=60%> |
+
 
 
  
