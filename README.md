@@ -15,10 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-|Screenshots
+| Screenshots |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/1.png" width=80% height=80%> |<img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/2.png" width=80% height=80%>|<img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/3.png" width=80% height=80%>|<img 
-src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/4.png" width=80% height=80%>| 
-
-
-<img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/Screenshot%202024-05-19%20223153.png" <img> 
+| <img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/1.png" width=80% height=80%> | <img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/2.png" width=80% height=80%> | <img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/3.png" width=80% height=80%> |
+| <img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/4.png" width=80% height=80%> | <img src="https://github.com/ChinmayaGit/recipe_finder_app/blob/main/Images/Screenshot%202024-05-19%20223153.png" width=80% height=80%> |
+ 
